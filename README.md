@@ -1,5 +1,5 @@
 # Aerial-Area-Analysis-using-Autonomous-Drones
-Aerial Area Analysis using Unmanned Aerial Vehicles (UAVs) is a cutting-edge technology that revolutionizes the way we analyze and understand vast landscapes. By deploying UAVs equipped with advanced sensors and imaging capabilities, this system enables efficient and detailed data collection, providing valuable insights for various applications, including environmental monitoring and land premisies.
+Aerial Area Analysis using Unmanned Aerial Vehicles (UAVs) is a cutting-edge technology that revolutionizes the way we analyze and understand vast landscapes. By deploying UAVs equipped with advanced sensors and imaging capabilities, this system enables efficient and detailed data collection, providing valuable insights for various applications, including environmental monitoring and land premises.
 
 ## Introduction:
 Traditional methods of area analysis have often been limited by time, cost, and accessibility constraints. With the advent of UAV technology, we can now access remote and challenging terrains with ease, capturing high-resolution data in real-time. The Aerial Area Analysis system offers a comprehensive and cost-effective solution for data acquisition and analysis over large and intricate geographical areas.
